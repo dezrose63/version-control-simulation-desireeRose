@@ -1,4 +1,14 @@
-# **SBA: Version Control** *Desiree Rose*
+<img width="250" height="50" alt="image" src="https://github.com/user-attachments/assets/38f3794e-58c4-4b3d-a31e-4ef089121296" />
+
+#  Per Scholas Software Engineer Bootcamp SBA 1
+
+## Do you want to get ***free*** tech training from Per Scholas? 
+
+## [Click Here to find out how!](https://perscholas.referralrock.com/l/7MIDHLPB/) 
+
+*************************************************************************************************************
+
+# **SBA1: Version Control** *Desiree Rose*
 
 ## Reflection: 
 >*In this assessment, I was able to practice the skills that I learned in Module 1: Version Control. This exercise simulated working on a large project where there were multiple peolple working on different sections of the project. I learned how to track changes in my codebase, collaborate with others using remote repositories, and managing branches for feature development. I was also able to practice using the CLI in bash, which really helped work on my muscle memory in the bash command line interface.*
